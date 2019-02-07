@@ -1,3 +1,43 @@
-baseURL = "http://example.org/"
+baseURL = "localhost:1313"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Alexandra Moxin"
+theme = "hugo-lodi-theme"
+googleAnalytics = "UA-XXXXXXXX-Y"
+
+[params]
+    theme_color = "#574CDD"
+    description = "Personal Website"
+    description_photo = "portfolio.jpg"
+    favicon = "favicon.ico"
+    logo = "logo.svg"
+    email = "alexandra.moxin@advancetechmedia.org"
+    facebook = "alexandra.moxin"
+    twitter = "Alexandra933"
+    #dribbble = "alexiscollado"
+    linkedin = "https://www.linkedin.com/in/alexandra-moxin"
+    medium = "Cnecct"
+    github = "lexi933"
+    instagram = "lexi_933/?hl=en"
+
+[params.nav]
+    enable = true
+
+[params.hero]
+    enable = true
+    avatar = "Alex1.jpg"
+    subtitle = "Alexandra Moxin"
+    hero_right = ["**CEO and Founder at Advance Tech Media | Vice President, Business Development and Partnerships at Adaptech Group | Advisor**", "Alexandra is CEO and Founder of Advance Tech Media and hosts the Advance Tech Podcast. We interview founders, influencers and tech leaders from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker. In just over a year the Advance Tech Podcast has reached a global audience base of 1 million listeners.", "She has over a decade of experience developing business and industry partnerships and brings an understanding of how ledger/event based system implementations impact organisations. She is well versed in Digital Transformation and has worked with national and international organizations and creative/digital agencies.", "She advises and is available to consult with companies utilising Bitcoin, Blockchain, CQRS/ES and ledger/event based technology in their solution. A graduate of the University of Nicosia, Introduction to Digital Currency MOOC and a featured Speaker and Educator with the BC Blockchain Forum - she brings a rare depth of understanding to the subject.", "She is developing her experience in the field of Artificial Intelligence and Machine Learning and has given talks at conferences and for private groups both nationally and internationally."]
+    resume = "Profile.pdf"
+
+[params.process]
+    enable = true
+    title = "My Work"
+    subtitle = "Original Works and Artifacts"
+
+[params.case_studies]
+    enable = true
+    title = "Appearances"
+    subtitle = "Highlights from recent conferences, talks, panels and recordings"
+
+[params.footer]
+    enable = true
