@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e3dcaa4-28dc-4014-b742-703fe70a0a09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/process/inspire.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/process/works.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/cope.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/cope.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/process/design.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/process/IQ.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/process/development.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/process/discovery.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/process/iteration.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/process/repeat.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/process/research.yaml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hugo-lodi-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-lodi-theme" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hugo-lodi-theme/layouts/partials/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-lodi-theme/layouts/partials/nav.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hugo-lodi-theme/layouts/partials/nav_casestudy.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-lodi-theme/layouts/partials/nav_casestudy.html" afterDir="false" />
@@ -38,7 +29,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/cope.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -90,12 +81,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="276">
-                <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+              <first_editor relative-caret-position="184">
+                <caret line="8" column="94" selection-start-line="8" selection-start-column="94" selection-end-line="8" selection-end-column="94" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -120,13 +111,13 @@
         <option value="$PROJECT_DIR$/themes/hugo-lodi-theme/layouts/partials/nav.html" />
         <option value="$PROJECT_DIR$/themes/hugo-lodi-theme/layouts/partials/nav_casestudy.html" />
         <option value="$PROJECT_DIR$/config.toml" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/data/process/development.yaml" />
         <option value="$PROJECT_DIR$/data/process/discovery.yaml" />
         <option value="$PROJECT_DIR$/data/process/IQ.yaml" />
         <option value="$PROJECT_DIR$/data/process/inspire.yaml" />
         <option value="$PROJECT_DIR$/data/process/works.yaml" />
         <option value="$PROJECT_DIR$/content/cope.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -222,7 +213,7 @@
     <frame x="-4" y="0" width="1608" height="904" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28700128" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28700128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -236,7 +227,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2651715" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2651715" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -318,18 +309,6 @@
     <entry file="file://$PROJECT_DIR$/static/360pro/img/chappy.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="276">
-            <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/process/IQ.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -405,6 +384,18 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="69">
             <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="184">
+            <caret line="8" column="94" selection-start-line="8" selection-start-column="94" selection-end-line="8" selection-end-column="94" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
