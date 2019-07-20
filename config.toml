@@ -8,14 +8,14 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     theme_color = "#574CDD"
     description = "Personal Website"
     description_photo = "portfolio.jpg"
-    favicon = "favicon.ico"
+    favicon = "[favicon.ico](https://advancetechmedia.org/)"
     logo = "logo.svg"
     email = "alexandra.moxin@advancetechmedia.org"
     facebook = "alexandra.moxin"
     twitter = "Alexandra933"
     #dribbble = "alexiscollado"
     linkedin = "https://www.linkedin.com/in/alexandra-moxin"
-    medium = "Cnecct"
+    medium = "Alexandra933"
     github = "lexi933"
     instagram = "lexi_933/?hl=en"
 
@@ -26,18 +26,18 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     enable = true
     avatar = "Alex1.jpg"
     subtitle = "Alexandra Moxin"
-    hero_right = ["**CEO and Founder at Advance Tech Media | Vice President, Business Development and Partnerships at Adaptech Group | Advisor**", "Alexandra is CEO and Founder of Advance Tech Media and hosts the Advance Tech Podcast. We interview founders, influencers and tech leaders from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker. In just over a year the Advance Tech Podcast has reached a global audience base of 1 million listeners.", "She has over a decade of experience developing business and industry partnerships and brings an understanding of how ledger/event based system implementations impact organisations. She is well versed in Digital Transformation and has worked with national and international organizations and creative/digital agencies.", "She advises and is available to consult with companies utilising Bitcoin, Blockchain, CQRS/ES and ledger/event based technology in their solution. A graduate of the University of Nicosia, Introduction to Digital Currency MOOC and a featured Speaker and Educator with the BC Blockchain Forum - she brings a rare depth of understanding to the subject.", "She is developing her experience in the field of Artificial Intelligence and Machine Learning and has given talks at conferences and for private groups both nationally and internationally."]
+    hero_right = ["**CEO and Founder at Advance Tech Media | Developer Product Marketing Manager, Azure at Microsoft | Advisor at Adaptech Group & LABS**", "Alexandra is CEO and Founder of Advance Tech Media home of the Advance Tech Podcast where she interviews founders, developers and tech leaders from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker in the emerging tech space. As CEO, she grew the global audience of the podcast to reach 1 million listeners in just over a year.", "She recently joined Microsoft as Developer Product Marketing Manager for Azure and is looking forward to working with and empowering the developer community to achieve more. She is developing her experience in Artificial Intelligence / Machine Learning and is actively involved as a speaker at local and international conferences and events.", "Alexandra brings a solid understanding of emerging technologies like Bitcoin, distributed and event-based system implementations and how these impact organizations. She is well versed in digital transformation and finds inspiration and comfort at the bleeding edge of innovation.", "She has leveraged over a decade of experience developing opportunities, business and industry partnerships as co-founder of Adaptech LABS and Vice President of Business Development at Adaptech Group, where she continues as an Advisor."]
     resume = "Profile.pdf"
 
 [params.process]
     enable = true
-    title = "My Work"
-    subtitle = "Original Works and Artifacts"
+    title = "Knowledge Base"
+    subtitle = "Leadership, motivation and knowledge resources"
 
 [params.case_studies]
     enable = true
     title = "Appearances"
-    subtitle = "Highlights from recent conferences, talks, panels and recordings"
+    subtitle = "Highlights from recent conferences, panels and recordings"
 
 [params.footer]
     enable = true
