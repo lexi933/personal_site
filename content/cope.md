@@ -1,7 +1,7 @@
 ---
 weight: 1
-title: "Cope | Alexis Collado"
-description: "I set a direction for the branding and identity of the product and crafted a functioning prototype ready for usability testing and development."
+title: "Dark Futures 6 | Vancouver"
+description: "Slides from my talk at Dark Fu"
 nav_heading: "Cope Case Study"
 thumbnail: "cope.jpg"
 case_short_title: "Cope iOS App"
