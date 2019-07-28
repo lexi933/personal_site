@@ -29,15 +29,15 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     hero_right = ["**CEO and Founder at Advance Tech Media | Developer Product Marketing Manager, Azure at Microsoft | Advisor at Adaptech Group & LABS**", "Alexandra is CEO and Founder of Advance Tech Media home of the Advance Tech Podcast where she interviews founders, developers and tech leaders from around the globe who give our audience insight into what it takes to massively scale from great idea to leading industry maker in the emerging tech space. As CEO, she grew the global audience of the podcast to reach 1 million listeners in just over a year.", "She recently joined Microsoft as Developer Product Marketing Manager for Azure and is looking forward to working with and empowering the developer community to achieve more. She is developing her experience in Artificial Intelligence / Machine Learning and is actively involved as a speaker at local and international conferences and events.", "Alexandra brings a solid understanding of emerging technologies like Bitcoin, distributed and event-based system implementations and how these impact organizations. She is well versed in digital transformation and finds inspiration and comfort at the bleeding edge of innovation.", "She has leveraged over a decade of experience developing opportunities, business and industry partnerships as co-founder of Adaptech LABS and Vice President of Business Development at Adaptech Group, where she continues as an Advisor."]
     resume = "Profile.pdf"
 
-[params.process]
-    enable = true
-    title = "Knowledge Base"
-    subtitle = "Leadership, motivation and knowledge resources"
-
 [params.case_studies]
     enable = true
     title = "Appearances"
     subtitle = "Highlights from recent conferences, panels and recordings"
+
+[params.process]
+    enable = true
+    title = "Knowledge Base"
+    subtitle = "Leadership, inspiration and knowledge resources"
 
 [params.footer]
     enable = true

@@ -1,18 +1,15 @@
 ---
-weight: 1
+weight: 2
 title: "Dark Futures 6 | Vancouver"
-description: "Slides from my talk at Dark Fu"
-nav_heading: "Cope Case Study"
-thumbnail: "cope.jpg"
-case_short_title: "Cope iOS App"
-case_title: "Cope iOS App"
-case_subtitle: "Mobile App Design"
+description: "Slides from Dark Futures 6 | The Dark Side of Big Data"
+nav_heading: "Dark Futures 6 | Vancouver"
+#thumbnail: "cope.jpg"
+case_short_title: "Dark Futures 6"
+case_title: "Dark Futures 6"
+case_subtitle: "The Dark Side of Big Data"
 case_description: "Cope is a mobile app that allows mental health help seekers track their symptoms and medication. I helped them create a minimum viable product for testing."
 case_feature_img: "featured-cope.jpg"
 case_summary: "Cope is an application that helps users track their mental health. Progress is measured through the use of a check-in system, calendar, medicine tracker and a summary dashboard. I created a minimum viable product for this application."
-team: ["Alexis Collado", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
-roles: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
-methods: ["Sketching", "Mockups", "Guerilla Testing"]
 button_links:
     - link: "https://marvelapp.com/g4b64e/screen/14364499"
       img: "eyeball.svg"
@@ -23,17 +20,14 @@ button_links:
     - link: "cope.pdf"
       img: "download.svg"
       text: "Download Feature Sets"
-testimonial: "Alexis designed everything for Cope from the ground up. What I really like about him is his true understanding and grasp of what makes a great UI great. He knows that the user experience needs a lot of refining from customers and he isn't shy to take feedback even if it's critical. Alexis is one of those rare people who just gets it."
-testimonial_photo: "john.jpg"
-testimonial_author: "John Robert Palomo"
-testimonial_subtitle: "Co-founder, Cope"
+
 date: 2017-10-15T03:29:08-07:00
 draft: false
 ---
 
 # The Challenge
 
-![](//localhost:1313/cope/img/persona.png)
+![](/df6.md/localhost:1313/cope/img/persona.png)
 
 A startup called Cope hired me to create a **minimum viable product**
 for their new idea — tracking mental health. It was the first project
@@ -60,7 +54,7 @@ solution was more of a community-based social sharing platform. We saw
 this as an opportunity for our own version of Cope to solve a unique
 problem in the space.
 
-![](//localhost:1313/cope/img/competition-cope.jpg)
+![](/df6.md/localhost:1313/cope/img/competition-cope.jpg)
 
 Instead, we drew inspiration from applications that feature the
 design components we needed: menstrual cycle management apps that have
@@ -76,7 +70,7 @@ We had feature changes and a lot of design decisions cancelled.
 Before, we had different modules for the design: forums, mental health
 doctor search, messaging.
 
-![](//localhost:1313/cope/img/discarded.jpg)
+![](/df6.md/localhost:1313/cope/img/discarded.jpg)
 
 We finalized the components of Cope that we wanted to build and
 we decided that we wanted to focus on tracking their progress for
@@ -93,7 +87,7 @@ and managing medication, and how does it tie up with the overall
 well-being score and progress of the user? How do we make a
 habit-forming product?
             
-![](//localhost:1313/cope/img/sketch.png)
+![](/df6.md/localhost:1313/cope/img/sketch.png)
 
 There were so many questions we had to answer going into the
 project, but we decided on four key features that will serve as the
@@ -102,7 +96,7 @@ system, medicine tracker, calendar overview, and summary dashboard. All
 modules work together to form a cohesive whole as a mental health
 tracking platform.
             
-![](//localhost:1313/cope/img/summary.png)
+![](/df6.md/localhost:1313/cope/img/summary.png)
 
 # Assumptions and Considerations
 
@@ -115,7 +109,7 @@ The design decision is to tally user's progress based on his or her own
 input, and we would assign a total well-being score based on the
 aggregate of their answers.
             
-![](//localhost:1313/cope/img/calendar.png)
+![](/df6.md/localhost:1313/cope/img/calendar.png)
 
 **Frequency of data collection**
 <br>How exactly do we know if the emotion that was self-reported persisted all throughout
@@ -126,7 +120,7 @@ initial design I created for the calendar screen.
             
 # User Flow Brainstorming
 
-![](//localhost:1313/cope/img/flow.png)
+![](/df6.md/localhost:1313/cope/img/flow.png)
 
 **Designing the onboarding process**
 <br>The onboarding process starts with the user signing up or logging in and
@@ -145,7 +139,7 @@ frankly, I feel like I haven't tested the solutions that I created yet.
 During this phase, I got advice from a data visualization desginer if I
 were designing the graphs correctly. I created a quick [landing page as well.](http://copenow.co)
             
-![](//localhost:1313/cope/img/add-medicine.png)
+![](/df6.md/localhost:1313/cope/img/add-medicine.png)
 
 **Design Intentionality**
 <br>There are so many nuances during the high fidelity design phase
@@ -179,7 +173,7 @@ process. Design for empty states. Design copywriting and strategy for
 push notifications as trigger. Integrate a social aspect into the
 application. All these will be helpful to create a better design for the app.
             
-![](//localhost:1313/cope/img/cope-final.png)
+![](/df6.md/localhost:1313/cope/img/cope-final.png)
 
 In reality, product design is the easy part. The real problems
 we're facing involve fighting a stigma around mental health, building an
